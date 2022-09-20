@@ -1,4 +1,4 @@
 # primeiroh_2t
-Nome: Nicollas POrtello Marques
-NUmero: 24
+Nome: Nicollas Portello Marques
+Numero: 24
 1H
